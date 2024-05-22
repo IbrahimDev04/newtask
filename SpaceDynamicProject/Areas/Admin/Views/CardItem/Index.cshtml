@@ -1,0 +1,83 @@
+﻿@model List<GetCardAdminVM>
+
+<h5 class="card-title fw-semibold mb-4">Recent Transactions</h5>
+<div class="table-responsive">
+    <a asp-action="Create" type="button" class="btn float-end btn-outline-success m-1">Create</a>
+    <table class="table table-bordered text-nowrap mb-0 align-middle">
+        <thead class="text-dark fs-4">
+            <tr>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Id</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Title</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Description</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Image</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Create Time</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Update Time</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Action</h6>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var i in Model)
+            {
+                <tr>
+                    <td class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">@i.Id</h6>
+                    </td>
+                    <td class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">@i.Title</h6>
+                    </td>
+                    <td class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">@i.Description</h6>
+                    </td>
+                    <td class="border-bottom-0">
+                        <img width="50px" src="@i.ImageUrl" alt="Alternate Text" />
+                    </td>
+                    <td class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">@i.CreatedTime</h6>
+                    </td>
+                    <td class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">@i.UpdatedTime</h6>
+                    </td>
+                    <td class="border-bottom-0">
+                        <a asp-action="Update" asp-route-id="@i.Id" type="button" class="btn btn-outline-primary m-1">Update</a>
+                        <a asp-action="Delete" asp-route-id="@i.Id" type="button" class="btn btn-outline-danger m-1">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+    <nav style="margin-left:30%; margin-top:5%;" aria-label="Page navigation example">
+        <ul class="pagination">
+            @if (ViewBag.CurrentPage != 1)
+            {
+                <li class="page-item"><a class="page-link" asp-route-page="@ViewBag.PrewPage" asp-action="Index">Previous</a></li>
+            }
+            
+            @for (int i = 1; i <= ViewBag.MaxPage; i++)
+            {
+                <li class="page-item"><a class="page-link" asp-action="index" asp-route-page="@(i-1)">@i</a></li>
+            }
+
+            @if (ViewBag.CurrentPage != ViewBag.MaxPage)
+            {
+                <li class="page-item"><a class="page-link" asp-route-page="@ViewBag.CurrentPage" asp-action="Index">Next</a></li>
+            }
+            
+            
+        </ul>
+    </nav>
+</div>

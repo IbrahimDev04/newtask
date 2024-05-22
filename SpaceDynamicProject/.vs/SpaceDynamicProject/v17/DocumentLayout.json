@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\controllers\\carditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\controllers\\carditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\views\\carditem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\views\\carditem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\viewcomponents\\navadminviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\viewcomponents\\navadminviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\extensions\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:extensions\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\views\\carditem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\views\\carditem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\views\\carditem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\views\\carditem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\viewmodels\\card\\updatecardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:viewmodels\\card\\updatecardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\viewmodels\\card\\createcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:viewmodels\\card\\createcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\viewmodels\\card\\getcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:viewmodels\\card\\getcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\viewmodels\\card\\getcardadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:viewmodels\\card\\getcardadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\dataaccesslayer\\spacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:dataaccesslayer\\spacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\views\\shared\\components\\navadmin\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\views\\shared\\components\\navadmin\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|c:\\users\\ca.r214.15\\desktop\\spacedynamicproject\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8CD56-49D0-465F-8C60-435B429BEFEA}|SpaceDynamicProject.csproj|solutionrelative:viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwGAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:01:57.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardItemController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Controllers\\CardItemController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CardItemController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Controllers\\CardItemController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CardItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:58:07.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavAdminViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\ViewComponents\\NavAdminViewComponent.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\ViewComponents\\NavAdminViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\ViewComponents\\NavAdminViewComponent.cs",
+              "RelativeToolTip": "Areas\\Admin\\ViewComponents\\NavAdminViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:46:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\CardItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\CardItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\CardItem\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\CardItem\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:41:08.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:23:46.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:23:53.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:20:13.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:21:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:21:58.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:27:47.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Enums\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:03:26.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:25:01.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:39:54.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:39:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:24:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:20:24.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Extensions\\FileManager.cs",
+              "RelativeDocumentMoniker": "Extensions\\FileManager.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Extensions\\FileManager.cs",
+              "RelativeToolTip": "Extensions\\FileManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:48:33.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:43:10.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\CardItem\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\CardItem\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\CardItem\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\CardItem\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:10:19.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\CardItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\CardItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\CardItem\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\CardItem\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:10:01.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetCardVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Card\\GetCardVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Card\\GetCardVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Card\\GetCardVM.cs",
+              "RelativeToolTip": "ViewModels\\Card\\GetCardVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:38:56.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCardVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Card\\CreateCardVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Card\\CreateCardVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Card\\CreateCardVM.cs",
+              "RelativeToolTip": "ViewModels\\Card\\CreateCardVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:39:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateCardVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Card\\UpdateCardVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Card\\UpdateCardVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Card\\UpdateCardVM.cs",
+              "RelativeToolTip": "ViewModels\\Card\\UpdateCardVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:39:23.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetCardAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Card\\GetCardAdminVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Card\\GetCardAdminVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewModels\\Card\\GetCardAdminVM.cs",
+              "RelativeToolTip": "ViewModels\\Card\\GetCardAdminVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:38:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:25:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SpaceContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\DataAccessLayer\\SpaceContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\SpaceContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\DataAccessLayer\\SpaceContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\SpaceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:14:34.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:22:36.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:17:51.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T06:06:30.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\Shared\\Components\\NavAdmin\\Default.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Components\\NavAdmin\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\Shared\\Components\\NavAdmin\\Default.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Components\\NavAdmin\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:46:43.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:43:49.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:42:57.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:19:41.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:20:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\SpaceDynamicProject\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:18:39.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
